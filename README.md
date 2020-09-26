@@ -9,6 +9,7 @@ Uygulama için Tkinter kullanılmıştır. Arayüz basit tutulmuştur. Kullanım
 Uygulamadaki makine öğrenmesi modeli xgboost olarak seçilmiştir fakat data üzerinde detaylı analiz yapılmadan basit bir model olarak inşa edilmiştir. Daha ayrıntılı makine öğrenmesi modeli ve data analizi için kaggle sayfasını ziyaret edebilirsiniz, data aynı zamanda kaggle'da yüklü bulunmaktadır bir kopyası yine github'a yüklenmiştir.
 
 Kaggle da bulunan data için link --> https://www.kaggle.com/alpertemel/turkey-car-market-2020
+
 Kaggle çalışması için link --> https://www.kaggle.com/alpertemel/turkey-car-market
 
 Saygılarımla.
